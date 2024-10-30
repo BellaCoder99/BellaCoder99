@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" alt="Sticker de Headspace" width="100"> Bienvenid@ a mi GitHub
+# <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" alt="Sticker de Headspace" width="100"> ¡Bienvenid@ a mi GitHub!
 
 
 ¡Hola tu!
